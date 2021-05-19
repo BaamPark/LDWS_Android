@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LDWS.iml" filepath="$PROJECT_DIR$/.idea/modules/LDWS.iml" group="LDWS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LDWS/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary345/openCVLibrary345.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary345/openCVLibrary345.iml" group="LDWS/openCVLibrary345" />
+    </modules>
+  </component>
+</project>
